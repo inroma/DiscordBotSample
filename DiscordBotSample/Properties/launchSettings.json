@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TD9Alerts": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
